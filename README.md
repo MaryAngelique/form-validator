@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [ GitHub Solution](GitHub )
+- Solution URL: [Form Validator GitHub Solution](https://github.com/MaryAngelique/form-validator)
 - Live Site URL: [ Website](Deployed website)
 
 ## My process
@@ -35,6 +35,7 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - VanillaJS
+- JS Regex
 - CSS custom properties
 - CSS Flexbox properties
 - CSS Grid properties
