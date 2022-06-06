@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Form Validator GitHub Solution](https://github.com/MaryAngelique/form-validator)
-- Live Site URL: [ Website](Deployed website)
+- Live Site URL: [Form Validator Website](https://form-validator-beta.vercel.app/)
 
 ## My process
 
